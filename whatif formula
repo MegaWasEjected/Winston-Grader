@@ -1,0 +1,12 @@
+a=desired grade
+*MUST BE NUMERICAL*
+*A=0.9, B=0.8, C=0.7, etc
+b=total points
+c=max points
+d=assignment point max
+
+e=(c+d)*a
+f=g-b 
+
+f is the amount of points you need to score for the desired grade
+if it is higher than the max point for the assignment, return an error
